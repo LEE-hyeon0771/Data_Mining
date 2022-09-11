@@ -11,6 +11,8 @@ The concept of university lecture content will be organized and blog links will 
 ## 목차
 
 1. Frequent Pattern Mining
+   1) Market Basket Problem https://pred0771.tistory.com/63
+   2) Apriori Algorithm https://pred0771.tistory.com/64
 2. Clustering
 3. Graph Data Mining
 4. Sequence Data Mining
