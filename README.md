@@ -13,6 +13,7 @@ The concept of university lecture content will be organized and blog links will 
 1. Frequent Pattern Mining
    1) Market Basket Problem https://pred0771.tistory.com/63
    2) Apriori Algorithm https://pred0771.tistory.com/64
+   3) Charm Algorithm
 2. Clustering
 3. Graph Data Mining
 4. Sequence Data Mining
