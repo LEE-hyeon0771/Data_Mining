@@ -9,8 +9,8 @@ with open('Seoul.csv','r') as file:
         data = line.strip().split(',')
 
         if data[2].split('-')[1] == '08':
-            highest_temp.append(float(data[4]))
-            if data[6] != '' and data[4] != '':
+            if data[6] != '':
+                highest_temp.append(float(data[4]))
                 lowest_temp.append(float(data[6]))
 
 plt.plot(range(len(highest_temp)), highest_temp, color='r', label='highest temp')
