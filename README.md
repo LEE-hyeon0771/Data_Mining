@@ -16,6 +16,7 @@ The concept of university lecture content will be organized and blog links will 
    3) Charm Algorithm https://pred0771.tistory.com/68
    4) Advanced Frequent Pattern Mining
 2. Clustering
+   1) Partition-Based Methods https://pred0771.tistory.com/72
 3. Graph Data Mining
 4. Sequence Data Mining
 5. Classification
